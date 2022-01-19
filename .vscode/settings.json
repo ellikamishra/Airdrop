@@ -1,5 +1,4 @@
 {
-    "solidity.defaultCompiler": "localFile",
-    "solidity.compileUsingRemoteVersion": "",
-    "solidity.compileUsingLocalVersion": "/home/ellika/Web3/soljson-v0.5.16+commit.9c3226ce.js"
+  "solidity.defaultCompiler": "localFile",
+  "solidity.compileUsingLocalVersion": "/home/ellika/Web3/soljson-v0.8.11+commit.d7f03943.js"
 }
