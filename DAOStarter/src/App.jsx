@@ -5,7 +5,7 @@ import { useEffect,useMemo,useSate } from "react";
 //import thirdweb
 import {useWeb3} from "@3rdweb/hooks";
 
-
+import { ThirdwebSDK } from "@3rdweb/sdk";
 
 const App = () => {
 
