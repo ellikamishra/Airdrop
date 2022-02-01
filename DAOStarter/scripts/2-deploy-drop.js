@@ -1,7 +1,7 @@
 import { ethers } from "ethers";
 import sdk from "./1-initialize-sdk.js";
 import { readFileSync } from "fs";
-
+//deploying membership contract using 
 const app = sdk.getAppModule("0x91b841cDC106D866732f8B90d1F97D8F890110D3");
 
 (async () => {

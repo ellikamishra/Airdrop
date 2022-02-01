@@ -40,5 +40,5 @@ const sdk=new ThirdwebSDK(
   // We are exporting the initialized thirdweb SDK so that we can use it in our other scripts
   export default sdk;
 
-
+//main project 
   //Your app address is: 0x91b841cDC106D866732f8B90d1F97D8F890110D3
