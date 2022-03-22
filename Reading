@@ -1,0 +1,80 @@
+Petshop-https://trufflesuite.com/tutorial/index.html
+
+https://betterprogramming.pub/build-your-first-dapp-with-web3-js-9a7306d16a61
+
+questbook-https://openquest.xyz/
+
+layer3-https://alpha.layer3.xyz/task/create-an-airdrop-program-with-solana-web3-js
+
+https://eattheblocks.com/best-way-to-learn-solidity-for-beginners/
+
+https://cryptozombies.io/en/course/
+
+https://solidity-by-example.org/payable/
+
+https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application
+
+https://techcrunch.com/2021/12/14/the-irrational-exuberance-of-web3/
+
+https://www.coinbase.com/learn/crypto-basics/what-is-proof-of-work-or-proof-of-stake
+
+https://buildspace.so/
+Tools-
+https://thirdweb.com/
+
+hyper scale fund to fund dao-
+https://www.hyperscalefund.com/
+
+misc-
+https://www.producthunt.com/posts/wagmipedia
+
+ENS-
+https://decrypt.co/resources/ethereum-name-service-ens-explained-guide-learn
+
+ERC20-
+https://decrypt.co/resources/erc20
+
+DID-
+https://tykn.tech/decentralized-identifiers-dids/
+
+smart contracts-
+https://ethereum.org/en/developers/docs/smart-contracts/
+https://blockgeeks.com/guides/smart-contracts/
+
+A contract in the sense of Solidity is a collection of code (its functions) and data (its state) that resides at a specific address on the Ethereum blockchain.
+
+layers in web3
+https://moralis.io/exploring-the-web3-tech-stack-full-guide/
+
+https://blog.coinbase.com/a-simple-guide-to-the-web3-stack-785240e557f0
+
+epns-
+
+dynamic notifications for wallets and web3 services.
+https://www.businessinsider.in/cryptocurrency/news/what-is-epns-and-why-does-it-matter/articleshow/89235443.cms
+
+**\***NETWORKING**\***
+The Hypertext Transfer Protocol (HTTP) is the foundation of the World Wide Web, and is used to load web pages using hypertext links. HTTP is an application layer protocol designed to transfer information between networked devices and runs on top of other layers of the network protocol stack. A typical flow over HTTP involves a client machine making a request to a server, which then sends a response message.
+
+DAO-
+The Data Access Object (DAO) pattern is a structural pattern that allows us to isolate the application/business layer from the persistence layer (usually a relational database but could be any other persistence mechanism) using an abstract API.
+
+The API hides from the application all the complexity of performing CRUD operations in the underlying storage mechanism. This permits both layers to evolve separately without knowing anything about each other.
+
+Slippage in uniswap- value fluctuation in exchanged coins
+
+DID- https://www.w3.org/TR/did-core/#:~:text=Decentralized%20identifiers%20(DIDs)%20are%20a,the%20controller%20of%20the%20DID.
+decentralisation
+
+TVL- https://coinmarketcap.com/alexandria/glossary/total-value-locked-tvl
+
+Liquid pool- https://www.finextra.com/blogposting/21438/defis-liquidity-pool-party-is-getting-started-and-everyones-invited#:~:text=A%20liquidity%20pool%20can%20be,bank%20or%20a%20stock%20exchange.
+
+liquidity pool farming
+
+impermanent loss
+
+ceramic/IDX- https://idx.xyz/
+https://ceramic.network/
+
+ABI- https://www.quicknode.com/guides/solidity/what-is-an-abi
